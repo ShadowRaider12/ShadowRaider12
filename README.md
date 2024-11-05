@@ -3,9 +3,15 @@
 I am Kwabena Akowuah a 14 year old software dev(low level). I am currently learning C#, C++, Python(mid level), and Rust.
 
 Hobbies💫:
-<li>🖥️Coding🖥️</li>
-<li>🎮Gaming{CoD, Fortnite and FIFA(FC)}🎮</li>
-<li>🧪Science{All of them}🧪</li>
-<li>⚽Football{The best sport in existence, AND ITS NOT CALLED SOCCER!}⚽</li>
-<li>🏁F1{Leclerc and Ferrari💖}🏁</li>
+- 🖥️Coding🖥️
+- 🎮Gaming{CoD, Fortnite and FIFA(FC)}🎮
+- 🧪Science{All of them}🧪
+- ⚽Football{The best sport in existence, AND ITS NOT CALLED SOCCER!}⚽
+- 🏁F1{Leclerc and Ferrari💖}🏁
+- ♟️Chess{Man's greatest intellectual game}♟️
 
+- 👨‍💻I am currently working on a game to take on CoD and all those AAA companies by myself. Hope I don't die!
+- 🥶I am looking to collab on the coldest game ever made: Deadzone: Nexus
+- ❌Don't ask me about anything, I am low-level
+- 📫How to reach me: <a href='mailto:kdakowuah@gmail.com'>Email</a>
+- ⚡Fun facts: I destroyed <a href='https://github.com/0xC0ba1t'>0xC0ba1t</a> at chess but he would say otherwise cuz my elo is embarrasing(192) and I always fail to add the semi colon at the end of my C++ codes
