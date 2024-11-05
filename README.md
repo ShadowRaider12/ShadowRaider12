@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @ShadowRaider12
-- 👀 I’m interested in football and running apps with python
-- 🌱 I’m currently learning nodejs
-- 💞️ I’m looking to collaborate on a game
-- 📫 How to reach me ...
-- 😄 Pronouns: HIM 🥶
-- ⚡ Fun fact: I am a chelsea fan
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Kwabena;A+low+level+coder(Don't+judge+me);I+go+to+school+at%3A;The+Roman+Ridge+School)](https://git.io/typing-svg)
 
-<!---
-ShadowRaider12/ShadowRaider12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am Kwabena Akowuah a 14 year old software dev(low level). I am currently learning C#, C++, Python(mid level), and Rust.
+
+Hobbies💫:
+<li>🖥️Coding🖥️</li>
+<li>🎮Gaming{CoD, Fortnite and FIFA(FC)}🎮</li>
+<li>🧪Science{All of them}🧪</li>
+<li>⚽Football{The best sport in existence, AND ITS NOT CALLED SOCCER!}⚽</li>
+<li>🏁F1{Leclerc and Ferrari💖}🏁</li>
+
