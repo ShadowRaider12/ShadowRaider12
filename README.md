@@ -14,4 +14,4 @@ Hobbies💫:
 - 🥶We are looking to collab on the coldest game ever made: Deadzone: Nexus (We need a freelancer for the models and others)
 - ❌Don't ask me about anything, I am low-level
 - 📫How to reach me: <a href='mailto:kdakowuah@gmail.com'>Email</a>
-- ⚡Fun facts: I destroyed <a href='https://github.com/0xC0ba1t'>0xC0ba1t</a> at chess but he would say otherwise cuz my elo is embarrasing(192) and I always fail to add the semi colon at the end of my C++ codes
+- ⚡Fun facts: I destroyed <a href='https://github.com/0xC0ba1t'>0xC0ba1t</a> at chess but he would say otherwise cuz my elo is embarrasing(540) and I always fail to add the semi colon at the end of my C++ codes
