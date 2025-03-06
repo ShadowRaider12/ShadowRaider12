@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Kwabena;A+low+level+coder(Don't+judge+me);I+go+to+school+at%3A;The+Roman+Ridge+School)](https://git.io/typing-svg)
 
-I am Kwabena Akowuah a 14 year old software dev(low level). I am currently learning C#, C++, Python(mid level), and Rust.
+I am Kwabena Akowuah a 15 year old software dev(low level). I am currently learning C#, C++ and Python(mid level).
 
 Hobbies💫:
 - 🖥️Coding🖥️
