@@ -11,6 +11,5 @@ Hobbies💫:
 - ♟️Chess{Man's greatest intellectual game}♟️
 
 - 👨‍💻I and <a href='https://github.com/0xC0ba1t'>0xC0ba1t</a> are working on Deadzone: Nexus
-- 🥶We are looking to collab on the coldest game ever made: Deadzone (We need a freelancer for the models and others)
 - 📫How to reach me: <a href='mailto:kdakowuah@gmail.com'>Email</a>
 - ⚡Fun facts: I always fail to add the semi colon at the end of my C++ codes
